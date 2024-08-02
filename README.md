@@ -15,7 +15,7 @@ PyMySQL library
 
 ## Installing
 1. Clone the repository:
-git clone https://github.com/name/vgsales-analysis.git
+git clone (https://github.com/zeel94/Assignment---5.git)(https://github.com/zeel94/Assignment---5.git)
 cd vgsales-analysis
 
 2. Install required Python libraries:
