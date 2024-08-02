@@ -18,11 +18,11 @@ This project involves analyzing video game sales data using Python (Pandas) and 
 https://github.com/zeel94/Assignment---5.git
 
 ### 2. Install required Python libraries:
-pip install pandas sqlalchemy pymysql
+- pip install pandas sqlalchemy pymysql
 
 ### 3. Set up MySQL:
-Install MySQL server.
-Create a database and import the vgsales table.
+- Install MySQL server.
+- Create a database and import the vgsales table.
 
 # Running the Codes
 
