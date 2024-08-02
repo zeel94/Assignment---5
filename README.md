@@ -1,11 +1,11 @@
-#Video Game Sales Analysis
+# Video Game Sales Analysis
 
-#Short Description
+# Short Description
 This project involves analyzing video game sales data using Python (Pandas) and MySQL. The primary goal is to identify the number of games launched between 2000 and 2005. Additional analysis includes running simple and complex SQL queries and filtering data using Python.
 
-#Getting Started
+# Getting Started
 
-##Prerequisites
+## Prerequisites
 Python 3.x
 Pandas library
 MySQL server
@@ -13,7 +13,7 @@ SQLAlchemy library
 PyMySQL library
 
 
-##Installing
+## Installing
 1. Clone the repository:
 git clone https://github.com/name/vgsales-analysis.git
 cd vgsales-analysis
@@ -25,9 +25,9 @@ pip install pandas sqlalchemy pymysql
 Install MySQL server.
 Create a database and import the vgsales table.
 
-#Running the Tests
+# Running the Tests
 
-##Breakdown of Tests
+## Breakdown of Tests
 Part 1: Data Import and Filtering
 Read CSV files into DataFrames:
 import pandas as pd
@@ -63,10 +63,10 @@ Filter action games launched after 2005:
 action_05 = df[(df['Genre']=='Action') & (df['Year'] >= 2005)]
 print("The max sales of action games in EU after 2005 is: " + str(action_05.EU_Sales.max()))
 
-#Author
+# Author
 Zeel Kayasth
 GitHub: zeel94
 
-#Acknowledgement
+# Acknowledgement
 Thanks to Durham College for the guidance and resources provided.
 Special thanks to the open-source community for the libraries and tools used in this project.
