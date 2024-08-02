@@ -70,7 +70,7 @@ print("The max sales of action games in EU after 2005 is: " + str(action_05.EU_S
 - This project does not include deployment steps as it is designed for local analysis and testing.
 
 # Author
-###Zeel Kayasth
+### Zeel Kayasth
 - GitHub: zeel94
 
 # License
