@@ -63,9 +63,15 @@ Filter action games launched after 2005:
 action_05 = df[(df['Genre']=='Action') & (df['Year'] >= 2005)]
 print("The max sales of action games in EU after 2005 is: " + str(action_05.EU_Sales.max()))
 
+# Deployment
+This project does not include deployment steps as it is designed for local analysis and testing.
+
 # Author
 Zeel Kayasth
 GitHub: zeel94
+
+# License
+This project is licensed under the MIT License.
 
 # Acknowledgement
 Thanks to Durham College for the guidance and resources provided.
