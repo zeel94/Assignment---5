@@ -40,7 +40,7 @@ print(between_00_05)
 Set up SQLAlchemy engine and run a simple query:
 ```python
 from sqlalchemy import create_engine
-engine = create_engine('mysql+pymysql://user10:pw@localhost/ap')
+engine = create_engine('mysql+pymysql://username:pw@localhost/database')
 conn = engine.connect()
 df = pd.read_sql_query("SELECT * FROM data1202.vgsales", conn)
 ```
