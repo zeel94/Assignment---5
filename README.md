@@ -14,14 +14,14 @@ PyMySQL library
 
 
 ## Installing
-1. Clone the repository:
+###1. Clone the repository:
 git clone https://github.com/zeel94/Assignment---5.git
 cd vgsales-analysis
 
-2. Install required Python libraries:
+###2. Install required Python libraries:
 pip install pandas sqlalchemy pymysql
 
-3. Set up MySQL:
+###3. Set up MySQL:
 Install MySQL server.
 Create a database and import the vgsales table.
 
