@@ -24,9 +24,9 @@ pip install pandas sqlalchemy pymysql
 Install MySQL server.
 Create a database and import the vgsales table.
 
-# Running the Tests
+# Running the Codes
 
-## Breakdown of Tests
+## Breakdown of Codes
 ### Part 1: Data Import and Filtering
 Read CSV files into DataFrames:
 ```python
