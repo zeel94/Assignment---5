@@ -16,7 +16,6 @@ PyMySQL library
 ## Installing
 ### 1. Clone the repository:
 https://github.com/zeel94/Assignment---5.git
-cd vgsales-analysis
 
 ### 2. Install required Python libraries:
 pip install pandas sqlalchemy pymysql
