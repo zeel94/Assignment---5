@@ -6,11 +6,11 @@ This project involves analyzing video game sales data using Python (Pandas) and 
 # Getting Started
 
 ## Prerequisites
-Python 3.x
-Pandas library
-MySQL server
-SQLAlchemy library
-PyMySQL library
+- Python 3.x
+- Pandas library
+- MySQL server
+- SQLAlchemy library
+- PyMySQL library
 
 
 ## Installing
@@ -77,5 +77,5 @@ GitHub: zeel94
 This project is licensed under the MIT License.
 
 # Acknowledgement
-Thanks to Durham College for the guidance and resources provided.
-Special thanks to the open-source community for the libraries and tools used in this project.
+- Thanks to Durham College for the guidance and resources provided.
+- Special thanks to the open-source community for the libraries and tools used in this project.
